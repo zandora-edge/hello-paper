@@ -1,0 +1,75 @@
+ID,Question,Section,Max Score
+Q-1,What are the differences between C and Python?,A,3
+Q-2,Explain built-in datatypes of python.,A,3
+Q-3,What is the difference between '= =' and 'is' operator in Python?,A,3
+Q-4,Explain the operators in Python with an example.,B,6
+Q-5,Explain different types of comments in python.,A,3
+Q-6,"Describe following string functions with syntax: title() , strip(), islower(), range(), eval().",B,5
+Q-7,Explain different sequences types with example in python.,A,3
+Q-8,What are the key features of Python?,A,3
+Q-9,Explain while loop & for loop with syntax and example in detail.,B,5
+Q-10,"Explain usage of continue, break, and pass keyword in python.",A,3
+Q-11,What is the difference between range and xrange?,A,2
+Q-12,What is the use of islower() and isupper() method?,A,2
+Q-13,"Give the syntax and significance of string functions: title(), strip() and split().",B,6
+Q-14,What is list in Python? Demonstrate use of any three methods of list.,B,5
+Q-15,How append() and extend() are different with reference to list in Python?,B,4
+Q-16,How sorted() can be used with list in Python? Give an example.,A,2
+Q-17,Explain Lists along with methods associated with lists and explain mutability with respect to Lists.,A,3
+Q-18,"Explain Tuples, Lists and Dictionaries with example and give comment on mutability for each of them.",B,6
+Q-19,Differentiate List and Tuple with example in Python.,A,3
+Q-20,What is dictionary in Python? Explain with an example.,A,2
+Q-21,Explain Tuples in Python with example,A,2
+Q-22,Explain the lambda function with syntax and example.,A,3
+Q-23,List out keywords used in exception handling.,A,3
+Q-24,Explain OOP concept in python with example.,B,6
+Q-25,Explain built-in class attributes in a python class.,A,3
+Q-26,What is python interpreter?,A,2
+Q-27,What is meant by value in python?,A,2
+Q-28,List the standard data types in python,A,3
+Q-29,What are python strings?,A,2
+Q-30,Mention the features of lists in python,A,2
+Q-31,How lists are updated in Python?,A,2
+Q-32,What is a variable?,A,2
+Q-33,What is a statement?,A,2
+Q-34,What is a function? Mention the type of function and use with example,B,6
+Q-35,Mention the types of arguments in python with syntax and example,B,6
+Q-36,What is meant by module in python?,A,3
+Q-37,List some built in modules in python,A,3
+Q-38,What is the use of dir() function?,A,2
+Q-39,What is an Arithmetic operator?,A,3
+Q-40,What is the use of comparison operator?,A,3
+Q-41,What are logical operators and Bitwise operators?,A,3
+Q-42,What are assignment statements?,A,3
+Q-43,Mention the features of identity operators?,A,2
+Q-44,Give the characteristics of membership operator?,A,2
+Q-45,What is Boolean value?,A,2
+Q-46,What is Boolean Expression?,A,2
+Q-47,Write the syntax and usage of for loop,A,3
+Q-48,Write the syntax and usage of while loop,A,3
+Q-49,What is python break statement?,A,2
+Q-50,What is python continue statement?,A,2
+Q-51,What is python pass statement?,A,2
+Q-52,What is len function and explain how it is used on strings with an example,A,3
+Q-53,What are the two operators that are used in string functions?,A,2
+Q-54,What is the use of str.upper() and str.lower() functions in string?,A,2
+Q-55,Explain string comparison with an example,A,3
+Q-56,How to split strings and what function is used to perform that operation?,A,3
+Q-57,Explain how to create a dictionary in python?,A,2
+Q-58,Explain what is range() function and how it is used in lists?,A,2
+Q-59,Python program to add two numbers,B,5
+Q-60,Python Program for factorial of a number,B,5
+Q-61,Write a Python program to print the Fibonacci series up to n terms.,B,5
+Q-62,Write a Python Program to multiply two matrices.,C,10
+Q-63,Python Program for cube sum of first n natural numbers,C,10
+Q-64,Python program to print all Prime numbers in an Interval,B,6
+Q-65,"Write a Python program that counts the number of occurrences of the character in
+the given string. Provide two implementations: recursive and iterative.",C,10
+Q-66,"Write a Python program that will return the sum of the numbers in the array, returning
+0 for an empty array. Except the number 13 is very unlucky, so it does not count and
+number that come immediately after 13 also do not count.
+Example : [1, 2, 3, 4] = 10",C,10
+Q-67,Write a Python program to implement the concept of inheritance.,C,10
+Q-68,Python program to accept the strings which contains all vowels,B,6
+Q-69,Python program to check whether the string is Symmetrical or Palindrome,B,6
+Q-70,Remove multiple elements from a list in Python,C,10
